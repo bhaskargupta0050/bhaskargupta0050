@@ -45,8 +45,8 @@ Currently, I’m focusing on improving my **programming skills**, understanding 
 
 ## 🌐 Connect with Me
 
-🌎 **GitHub:** [github.com/bhaskargupta](https://github.com/bhaskargupta0050)  
-💼 **LinkedIn:** [linkedin.com/in/bhaskargupta](https://linkedin.com/in/bhaskargupta0050)  
+🌎 **GitHub:** [github.com/bhaskargupta](https://github.com/bhaskargupta0050]  
+💼 **LinkedIn:** [linkedin.com/in/bhaskargupta](https://linkedin.com/in/bhaskargupta0050]  
 📫 **Email:** bhaskargupta00007@example.com  
 
 ---
